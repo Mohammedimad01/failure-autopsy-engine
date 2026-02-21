@@ -83,4 +83,9 @@ Mohammed Imad Thotan
 Business Analytics | AI System Design | Decision Intelligence
 
 # License
-Project created for educational and research purposes.
+Intellectual Property Notice
+This project concept, architecture, and implementation are original work.
+Unauthorized reproduction, distribution, or commercial use is prohibited.
+
+
+
